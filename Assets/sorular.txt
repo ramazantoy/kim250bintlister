@@ -1,0 +1,29 @@
+1) Aşağıdakilerden hangisi memeli bir hayvandır?
+A: Kurbağa
+B: Kaplumbağa
+C: Papağan
+D: Yarasa
+D: Yarasa
+2) Bir yıl kaç gündür?
+A: 300
+B: 400
+C: 365
+D: 250
+C: 365
+3) Türkiyenin başkenti hangi ilimizdir?
+A: Trabzon
+B: Ankara
+C: İstanbul
+D: Edirne
+B: Ankara
+4)Aşağıdakilerden hangisi bir oyunun yapısını oluşturmaz ?
+A: Takla atmak
+B: Grafik
+C: Modelleme
+D: Programlama
+A: Takla atmak
+
+
+
+
+
